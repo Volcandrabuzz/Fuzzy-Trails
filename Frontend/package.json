@@ -1,0 +1,14 @@
+{
+  "name": "pet_32adventure",
+  "displayName": "PET ADVENTURE",
+  "version": "1.0.0",
+  "description": "PET ADVENTURE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": ""
+}
