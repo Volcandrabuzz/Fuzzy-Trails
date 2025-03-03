@@ -1,4 +1,4 @@
-# Pet Adventure Frontend
+# Furry Trails Frontend
 
 This repository contains the frontend for the *Pet Adventure* game, built with *GDevelop*. The game features fun pet adventures and challenges with engaging gameplay mechanics.
 
